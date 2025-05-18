@@ -12,7 +12,13 @@ Collected Data Package Repository.
 ## Situational Awareness:
 - S2 Underground: https://drive.proton.me/urls/3K2M4EK1KM#qeZEkfSmNbo1
 
+## Weather:
+- NOAA Weather Prediction Center (WPC) Latest Quantitative Precipitation Forecast (QPF): https://www.wpc.ncep.noaa.gov/kml/qpf/QPF6hr_f00-f06_latest.kmz
+- NOAA WPC Significant Weather: https://www.wpc.ncep.noaa.gov/kml/noaa_chart/WPC_Day1_SigWx_latest.kml
+
 ## Cameras
 - CA 511 Traffic Cameras
 
-## Plugins:
+## Plugins (for ATAK v4.10 or later):
+- ADSB Direct: tak.gov
+- 
