@@ -10,7 +10,7 @@ Collected Data Package Repository.
 - ATAK DTED: https://github.com/rick51231/atak-dted-dp-downloader
 
 ## Situational Awareness:
-- S2 Underground: https://drive.proton.me/urls/3K2M4EK1KM#qeZEkfSmNbo1
+- S2 Underground: https://github.com/s2underground/GhostMaps
 
 ## Weather:
 - NOAA Weather Prediction Center (WPC) Latest Quantitative Precipitation Forecast (QPF): https://www.wpc.ncep.noaa.gov/kml/qpf/QPF6hr_f00-f06_latest.kmz
